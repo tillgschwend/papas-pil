@@ -28,6 +28,6 @@ dies geht nur mit aktivierter venv
 ``python load_image.py``
 ind er konsole sieht dies dann so aus:
 ```
-(papas-venv) tillgschwend-3:pil_for_papa TillGschwend$ python load_image.py 
+(papas-venv) shdjahjsdahja-3:pil_for_papa TillGschwend$ python load_image.py 
 (248, 204)
 
